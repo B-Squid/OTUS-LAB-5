@@ -1,0 +1,8 @@
+./cpu_nice.sh
+Number of CPU to use: 4
+Process 1 start: 14min 27sec
+Process 2 start: 14min 27sec
+Process 2 stop: 15min 47sec
+Process 2 duration(nice -20): 80sec
+process 1 stop: 16min 50sec
+Process 1 duration(nice 19): 143sec
